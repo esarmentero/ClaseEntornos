@@ -17,6 +17,8 @@ public class CCuenta {
     private double saldo;
     /*Variable que almacena el tipo de interes de la cuenta*/
     private double tipoInteres;
+    /*Nueva variable*/
+    private String nueva;
 
     /**
      * Constructor vacio de la clase cuenta
