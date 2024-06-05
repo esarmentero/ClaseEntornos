@@ -19,6 +19,8 @@ public class CCuenta {
     private double tipoInteres;
     /*Nueva variable*/
     private String nueva;
+   /*variable desde Github*/
+    private int intentos;
 
     /**
      * Constructor vacio de la clase cuenta
